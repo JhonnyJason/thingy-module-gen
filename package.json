@@ -1,6 +1,6 @@
 {
-    "name": "thingy-module-gen",
-    "version": "0.0.1",
+    "name": "thingy-module-gen-old",
+    "version": "0.1.0",
     "description": "This is the shit!",
     "scripts": {
         "build-coffee": "coffee -o output/ -c sources/source/*/*.coffee",
