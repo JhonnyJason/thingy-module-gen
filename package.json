@@ -1,6 +1,6 @@
 {
     "name": "thingy-module-gen",
-    "version": "0.1.3",
+    "version": "0.1.4",
     "description": "This is the shit!",
     "scripts": {
         "build-coffee": "coffee -o output/ -c sources/source/*/*.coffee",
@@ -43,7 +43,7 @@
     "homepage": "https://github.com/JhonnyJason/thingy-module-gen#readme",
     "dependencies": {
         "coffeescript": "^2.5.1",
-        "npm-check-updates": "^4.0.2",
+        "npm-check-updates": "^4.0.4",
         "npm-run-all": "^4.1.5",
         "thingy-allmodules-sync": "^0.1.2",
         "thingy-module-gen": "^0.1.3",
