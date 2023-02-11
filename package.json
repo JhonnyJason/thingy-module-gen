@@ -47,7 +47,7 @@
     "homepage": "https://github.com/JhonnyJason/thingy-module-gen#readme",
     "dependencies": {
         "coffeescript": "^2.6.1",
-        "npm-check-updates": "^12.5.9",
+        "npm-check-updates": "^16.7.4",
         "npm-run-all": "^4.1.5",
         "thingy-allmodules-sync": "^0.2.0",
         "thingy-module-gen": "^0.1.6",
